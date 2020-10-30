@@ -42,12 +42,9 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="koushikja's GitHub Stats" src="https://github-readme-stats.koushikja.vercel.app/api?username=koushikja&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://koushik.carrd.co
 [twitter]: https://twitter.com/Koushik_J_A
