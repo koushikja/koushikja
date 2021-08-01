@@ -44,9 +44,6 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=koushikja&show_icons=true&hide_border=true" />
 
 [website]: https://koushik.carrd.co
 [twitter]: https://twitter.com/Koushik_J_A
