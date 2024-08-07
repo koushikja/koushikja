@@ -1,12 +1,12 @@
-### Hi there, I'm Koushik - aka [FullStackDeveloper][website] 👋
+### Hi there, I'm Koushik - aka [Developer][website] 👋
 
 ---
 
-## I'm a Developer, Tea Lover , Gamer !!
+## I'm a Developer, Tea Lover, Gamer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Learn more technologies
+- 🌱 I’m currently trying to learning everything 🤣
+- 👯 I’m looking to gain more experience in my career
+- 🥅 2024 Goals: Learn and perfect DSA and problem solving patterns
 - ⚡ Fun fact: I love to listen to music and play video games
 
 ---
